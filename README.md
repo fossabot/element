@@ -1,4 +1,6 @@
 # com-element
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcuilongjin%2Felement.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcuilongjin%2Felement?ref=badge_shield)
+
 
 com-element 是一个基于 element-ui 进行二次封装的组件库，主要为自己业务封装的一些组件和对 element-ui 进行新的主题定制。
 
@@ -35,3 +37,7 @@ Vue.use(comElement)
 
 
 https://github.com/xaboy/form-create
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcuilongjin%2Felement.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcuilongjin%2Felement?ref=badge_large)
